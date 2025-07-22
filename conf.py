@@ -10,9 +10,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'PeacockTV.com/tv'
-copyright = '2025, PeacockTV.com/tv'
-author = 'PeacockTV.com/tv'
+project = 'Robinhood  Wallet'
+copyright = '2025, Robinhood  Wallet'
+author = 'Robinhood  Wallet'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
